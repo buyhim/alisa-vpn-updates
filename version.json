@@ -1,6 +1,6 @@
-  {
-    "versionCode": 100,
-    "versionName": "1.0.0",
-    "apkUrl": "https://github.com/buyhim/alisa-vpn-updates/releases/download/v1.0.0/app-release.apk",
-    "changelog": "Первая версия Алиса VPN"
-  }
+{
+  "versionCode": 101,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/buyhim/alisa-vpn-updates/releases/download/v1.0.1/app-release.apk",
+  "changelog": "Убран IP, переключение серверов на лету, анимации, автообновление"
+}
