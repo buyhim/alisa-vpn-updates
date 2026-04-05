@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/buyhim/alisa-vpn-updates/releases/download/v1.0.2/app-release.apk",
-  "changelog": "Нажал на сервер — сразу подключение. Минимум 3 сек на установку соединения."
+  "versionCode": 103,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/buyhim/alisa-vpn-updates/releases/download/v1.0.3/app-release.apk",
+  "changelog": "Предупреждение БС при любом подключении, исправления"
 }
